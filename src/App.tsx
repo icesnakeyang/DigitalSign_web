@@ -52,7 +52,7 @@ function App() {
                     </Form.Item>
                 </Form>
                 <div style={{display: 'flex', justifyContent: 'center'}}>
-                    <Button type='primary' onClick={onCheck}>Digital Signature</Button>
+                    <Button style={{background:'red', color:'white'}} onClick={onCheck}>Digital Signature</Button>
                 </div>
                 <div style={{marginTop: 20}}>
                     I acknowledge that this authorization will remain in effect bla bla bla...
