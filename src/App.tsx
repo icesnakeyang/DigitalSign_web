@@ -55,7 +55,7 @@ function App() {
                     <Button style={{background:'red', color:'white'}} onClick={onCheck}>Digital Signature</Button>
                 </div>
                 <div style={{marginTop: 20}}>
-                    I acknowledge that this authorization will remain in effect bla bla bla...
+                    I hereby declare that the above made statements are true to the best of my knowledge and belief, and that I understand it is made for use as evidence in court and is subject to penalty for perjury.
                 </div>
             </Card>
         </div>
